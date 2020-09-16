@@ -16,7 +16,7 @@ def print_help(version):
 	print("       #@@@@@@@@@@@@               *@@@@@@@@@@@*\n")
 	print("InfiniDrive v" + version + " - An unlimited Google Drive storage solution")
 	print("Based on a project by David Berdik, Steven Myrick, and Noah Greenberg")
-	print("Developed and maintained by David Berdik and Maitree Rawat\n")
+	print("Developed and maintained by David Berdik\n")
 	print(">> help - Displays this help command.")
 	print(">> upload <file path OR http/https URL> <optional: file name> - Uploads specified file to Google Drive")
 	print(">> list - Lists the names of all InfiniDrive files")
